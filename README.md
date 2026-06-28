@@ -31,7 +31,7 @@ graph TD
 
     subgraph ExternalServices ["External Services & Data"]
         GoogleSearch["🔍 Google Search API"]
-        BQDataset[("📊 BigQuery Public Data <br> (thelook_ecommerce)"]
+        BQDataset[("📊 BigQuery Public Data <br> (thelook_ecommerce)")]
     end
 
     subgraph Observability ["Observability Pipeline"]
